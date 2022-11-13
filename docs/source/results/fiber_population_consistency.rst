@@ -28,28 +28,21 @@ AF
 .. raw:: html
  :file: fiber_population_figures/fp_consistency_whole/AF_icc.html
  
- 
-  
-CC 2a
-~~~~~~~
-
-  
-* ICC
+   
+   
+* Within-variability
 
 .. raw:: html
- :file: fiber_population_figures/fp_consistency_whole/CC_2a_icc.html
- 
+ :file: fiber_population_figures/fp_consistency_whole/AF_cvw.html
  
  
   
-CC 2b
-~~~~~~~
-
-  
-* ICC
+* Between-variability
 
 .. raw:: html
- :file: fiber_population_figures/fp_consistency_whole/CC_2b_icc.html
+ :file: fiber_population_figures/fp_consistency_whole/AF_cvb.html
+ 
+ 
  
  
   
@@ -63,63 +56,18 @@ CC 3
  :file: fiber_population_figures/fp_consistency_whole/CC_3_icc.html
  
  
- 
-CC 4
-~~~~~
-
   
-* ICC
+* Within-variability
 
 .. raw:: html
- :file: fiber_population_figures/fp_consistency_whole/CC_4_icc.html
+ :file: fiber_population_figures/fp_consistency_whole/CC_3_cvw.html
  
  
- 
- 
-CC 5
-~~~~~~~
-
   
-* ICC
+* Between-variability
 
 .. raw:: html
- :file: fiber_population_figures/fp_consistency_whole/CC_5_icc.html
- 
- 
- 
-
-CC 6
-~~~~~~~
-
-
-* ICC
-
-.. raw:: html
- :file: fiber_population_figures/fp_consistency_whole/CC_6_icc.html
- 
- 
- 
-
-CC 7
-~~~~~~
-
-
-* ICC
-
-.. raw:: html
- :file: fiber_population_figures/fp_consistency_whole/CC_7_icc.html
- 
- 
- 
-
-CG
-~~~~
-
-
-* ICC
-
-.. raw:: html
- :file: fiber_population_figures/fp_consistency_whole/CG_icc.html
+ :file: fiber_population_figures/fp_consistency_whole/CC_3_cvb.html
  
  
  
@@ -134,10 +82,24 @@ CST
  :file: fiber_population_figures/fp_consistency_whole/CST_icc.html
  
  
+
+* Within-variability
+
+.. raw:: html
+ :file: fiber_population_figures/fp_consistency_whole/CST_cvw.html
+ 
+ 
+
+* Between-variability
+
+.. raw:: html
+ :file: fiber_population_figures/fp_consistency_whole/CST_cvb.html
+ 
+ 
  
 
 IFOF
-~~~~~~
+~~~~~
 
 
 * ICC
@@ -145,86 +107,26 @@ IFOF
 .. raw:: html
  :file: fiber_population_figures/fp_consistency_whole/IFOF_icc.html
  
- 
- 
-ILF
-~~~~~
 
 
-* ICC
+* Within-variability
 
 .. raw:: html
- :file: fiber_population_figures/fp_consistency_whole/ILF_icc.html
- 
+ :file: fiber_population_figures/fp_consistency_whole/IFOF_cvw.html
  
  
 
-OR
-~~~~
-
-
-* ICC
+* Between-variability
 
 .. raw:: html
- :file: fiber_population_figures/fp_consistency_whole/OR_icc.html
+ :file: fiber_population_figures/fp_consistency_whole/IFOF_cvb.html
  
  
  
-
-SLF 1
-~~~~~~~
-
-
-* ICC
-
-.. raw:: html
- :file: fiber_population_figures/fp_consistency_whole/SLF_1_icc.html
- 
- 
- 
-
-SLF 2
-~~~~~~~
-
-
-* ICC
-
-.. raw:: html
- :file: fiber_population_figures/fp_consistency_whole/SLF_2_icc.html
- 
- 
- 
-
-SLF 3
-~~~~~~~
-
-
-* ICC
-
-.. raw:: html
- :file: fiber_population_figures/fp_consistency_whole/SLF_3_icc.html
- 
- 
- 
-
-UF
-~~~~
-
-
-* ICC
-
-.. raw:: html
- :file: fiber_population_figures/fp_consistency_whole/UF_icc.html
- 
- 
- 
-
-
 
 
 Profile-Bundle Consistency
 ------------------------
-
 
 
 
@@ -237,106 +139,50 @@ AF
 .. raw:: html
  :file: fiber_population_figures/fp_consistency_profile/AF_icc_p.html
  
- 
-  
-CC 2a
-~~~~~~~
-
-  
-* ICC
+   
+   
+* Within-variability
 
 .. raw:: html
- :file: fiber_population_figures/fp_consistency_profile/CC2a_icc_p.html
- 
+ :file: fiber_population_figures/fp_consistency_profile/AF_cvw_p.html
  
  
   
-CC 2b
-~~~~~~
-
-  
-* ICC
+* Between-variability
 
 .. raw:: html
- :file: fiber_population_figures/fp_consistency_profile/CC2b_icc_p.html
+ :file: fiber_population_figures/fp_consistency_profile/AF_cvb_p.html
+ 
  
  
  
   
 CC 3
-~~~~~~
-
-  
-* ICC
-
-.. raw:: html
- :file: fiber_population_figures/fp_consistency_profile/CC3_icc_p.html
- 
- 
-  
- 
-CC 4
-~~~~~~
-
-  
-* ICC
-
-.. raw:: html
- :file: fiber_population_figures/fp_consistency_profile/CC4_icc_p.html
- 
- 
- 
- 
-CC 5
-~~~~~~
-
-  
-* ICC
-
-.. raw:: html
- :file: fiber_population_figures/fp_consistency_profile/CC5_icc_p.html
- 
- 
-
- 
-CC 6
-~~~~~~
-
-
-* ICC
-
-.. raw:: html
- :file: fiber_population_figures/fp_consistency_profile/CC6_icc_p.html
- 
- 
- 
-
-
-CC 7
 ~~~~~~~
 
-
+  
 * ICC
 
 .. raw:: html
- :file: fiber_population_figures/fp_consistency_profile/CC7_icc_p.html
+ :file: fiber_population_figures/fp_consistency_profile/CC_3_icc_p.html
  
  
- 
-
-CG
-~~~~
-
-
-* ICC
+  
+* Within-variability
 
 .. raw:: html
- :file: fiber_population_figures/fp_consistency_profile/CG_icc_p.html
- 
+ :file: fiber_population_figures/fp_consistency_profile/CC_3_cvw_p.html
  
  
   
-  
+* Between-variability
+
+.. raw:: html
+ :file: fiber_population_figures/fp_consistency_profile/CC_3_cvb_p.html
+ 
+ 
+ 
+
 CST
 ~~~~~
 
@@ -348,9 +194,23 @@ CST
  
  
 
+* Within-variability
+
+.. raw:: html
+ :file: fiber_population_figures/fp_consistency_profile/CST_cvw_p.html
  
+ 
+
+* Between-variability
+
+.. raw:: html
+ :file: fiber_population_figures/fp_consistency_profile/CST_cvb_p.html
+ 
+ 
+ 
+
 IFOF
-~~~~~~
+~~~~~
 
 
 * ICC
@@ -358,77 +218,18 @@ IFOF
 .. raw:: html
  :file: fiber_population_figures/fp_consistency_profile/IFOF_icc_p.html
  
- 
 
 
-ILF
-~~~~~
-
-
-* ICC
+* Within-variability
 
 .. raw:: html
- :file: fiber_population_figures/fp_consistency_profile/ILF_icc_p.html
+ :file: fiber_population_figures/fp_consistency_profile/IFOF_cvw_p.html
  
-  
+ 
 
-
-OR
-~~~~~
-
-
-* ICC
+* Between-variability
 
 .. raw:: html
- :file: fiber_population_figures/fp_consistency_profile/OR_icc_p.html
+ :file: fiber_population_figures/fp_consistency_profile/IFOF_cvb_p.html
  
  
- 
-
-SLF 1
-~~~~~~~
-
-
-* ICC
-
-.. raw:: html
- :file: fiber_population_figures/fp_consistency_profile/SLF1_icc_p.html
- 
- 
- 
-
-SLF 2
-~~~~~~~
-
-
-* ICC
-
-.. raw:: html
- :file: fiber_population_figures/fp_consistency_profile/SLF2_icc_p.html
- 
- 
- 
- 
-SLF 3
-~~~~~~~
-
-
-* ICC
-
-.. raw:: html
- :file: fiber_population_figures/fp_consistency_profile/SLF3_icc_p.html
- 
- 
- 
-
-UF
-~~~~
-
-
-* ICC
-
-.. raw:: html
- :file: fiber_population_figures/fp_consistency_profile/UF_icc_p.html
- 
- 
-
