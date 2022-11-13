@@ -12,6 +12,13 @@ Only graphics for some bundles are displayed. The others bundles graphs can be d
 Whole-bunlde measures
 ---------------------------
 
+
+AF
+~~~~
+
+.. raw:: html
+  :file: fiber_population_figures/fp_measures_whole/AF_fp.html
+  
   
   
 CC 3
@@ -22,28 +29,21 @@ CC 3
   
   
   
-CG
-~~~~
 
-.. raw:: html
-  :file: fiber_population_figures/fp_measures_whole/CG_fp.html
-  
-  
-
-ILF
+CST
 ~~~~~
 
 .. raw:: html
-  :file: fiber_population_figures/fp_measures_whole/ILF_fp.html
+  :file: fiber_population_figures/fp_measures_whole/CST_fp.html
 
 
 
 
-SLF 2
+IFOF
 ~~~~~~~
 
 .. raw:: html
-  :file: fiber_population_figures/fp_measures_whole/SLF2_fp.html
+  :file: fiber_population_figures/fp_measures_whole/IFOF_fp.html
   
 
 
@@ -52,6 +52,15 @@ SLF 2
 Profile-bunlde measures
 ---------------------------
 
+
+
+AF
+~~~~~
+
+.. raw:: html
+  :file: fiber_population_figures/fp_measures_profile/AF_fp.html
+  
+  
 
 
 CC 3
@@ -63,28 +72,19 @@ CC 3
   
   
 
-
-CG
+CST
 ~~~~~
 
 .. raw:: html
-  :file: fiber_population_figures/fp_measures_profile/CG_fp.html
-  
-  
-
-ILF
-~~~~~
-
-.. raw:: html
-  :file: fiber_population_figures/fp_measures_profile/ILF_fp.html
+  :file: fiber_population_figures/fp_measures_profile/CST_fp.html
 
 
 
-SLF 2
+IFOF
 ~~~~~~~
 
 .. raw:: html
-  :file: fiber_population_figures/fp_measures_profile/SLF_2_fp.html
+  :file: fiber_population_figures/fp_measures_profile/IFOF_fp.html
   
 
 
