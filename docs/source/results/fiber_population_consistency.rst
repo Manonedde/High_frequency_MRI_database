@@ -164,21 +164,21 @@ CC 3
 * ICC
 
 .. raw:: html
- :file: fiber_population_figures/fp_consistency_profile/CC_3_icc_p.html
+ :file: fiber_population_figures/fp_consistency_profile/CC3_icc_p.html
  
  
   
 * Within-variability
 
 .. raw:: html
- :file: fiber_population_figures/fp_consistency_profile/CC_3_cvw_p.html
+ :file: fiber_population_figures/fp_consistency_profile/CC3_cvw_p.html
  
  
   
 * Between-variability
 
 .. raw:: html
- :file: fiber_population_figures/fp_consistency_profile/CC_3_cvb_p.html
+ :file: fiber_population_figures/fp_consistency_profile/CC3_cvb_p.html
  
  
  
