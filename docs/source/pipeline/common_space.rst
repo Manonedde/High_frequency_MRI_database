@@ -3,10 +3,8 @@ Common Space
 
 Build common space
 ------------------
-To evaluate the consistency of each measure at the voxel level across the
-bundles in the whole brain, we build a common space based on our population.
-Common space is generated from b0 images resulting from Tractoflow using
-ANTs as follow:
+To evaluate the consistency of each measure at the voxel level, we build a common space based on our population.
+Common space is generated from b0 images resulting from Tractoflow using ANTs as follow:
 
 .. code-block:: bash
 
@@ -15,13 +13,13 @@ ANTs as follow:
 .. note::
 
    As we used the b0 output from tractoflow, b0 images are already
-   pre-processing (including skull stripping, resampling, distorsion correction...),
+   pre-processing (including skull stripping, resampling, distorsion correction,...),
    see Tractoflow description here https://tractoflow-documentation.readthedocs.io.
-   All individual subject measures maps were aligned in the common diffusion space using 
+   All individual subject measure maps are aligned in the common diffusion space using 
    the nonlinear registration of each b0 resampled native map. 
 
 
-Average measures maps
+Average measure maps
 --------------------
 
 To generate mean image for each measure, we run scilpy python script as follow:
@@ -30,9 +28,6 @@ To generate mean image for each measure, we run scilpy python script as follow:
 
   # Mean images (example for FA map)
   scil_image_math.py mean *fa*.nii.gz mean_fa_healthy_control.nii.gz
-
-  # Standard deviation images
-  scil_image_math.py sd *fa*.nii.gz sd_fa_healthy_control.nii.gz
   
   
 Resulting average maps are avalaible section `Averaged measures in common space <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/results/average_maps.html>`_.
