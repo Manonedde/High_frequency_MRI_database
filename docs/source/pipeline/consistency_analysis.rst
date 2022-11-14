@@ -2,14 +2,14 @@ Consistency analysis
 ====================
 
 The consistency analyses of each measure are carried out at the voxel-level within the bundle masks in common 
-space using this `script`_.
+space using this `consistency script`_.
 The individual mask corresponding to each subject and session in the common space are provided as input. 
 The overlap between masks across sessions and subjects is then performed as described in the consistency measures (See section `Consistency metrics <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/pipeline/consistency_analysis.html#reliability>`_). 
 Incomplete overlap of mask between subjects and sessions is compensated by densifying each measure in the affected 
 regions voxel-wise, using the average value estimated from the available subjects or sessions. The averaged masks used 
 for the computation of statistical measurements are then obtained subject-wise or session-wise by mathematical union. 
 
- .. _script: https://github.com/AlexVCaron/longitudinal_image_statistics
+ .. _consistency script: https://github.com/AlexVCaron/longitudinal_image_statistics
 
 
 Bundle-averaged 
