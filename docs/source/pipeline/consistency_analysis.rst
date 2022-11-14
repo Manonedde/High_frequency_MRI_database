@@ -23,11 +23,11 @@ a conservative bundle mask that we called the “safe mask”.
 Bundle-profile
 ---------------
 
-To generate the bundle-profile (also called track-profiles), `TractometryFlow`_ is applied to each subject-specific 
+To generate the bundle-profile (also called track-profiles), `Tractometry Flow`_ is applied to each subject-specific 
 bundle to obtain 10 binary mask corresponding to 10 equidistant sections. Each binary mask is then intersected
 with the safe mask. 
 
- .. _script: https://github.com/scilus/tractometry_flow
+ .. _Tractometry Flow: https://github.com/scilus/tractometry_flow
 
 .. image:: Bundles_masks.png
    :align: center
