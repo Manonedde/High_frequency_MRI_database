@@ -6,13 +6,17 @@ See section `Fiber population analysis <https://high-frequency-mri-database-supp
 
 Only graphics for ICC are shown. The within-variability and between-variability graphs can be downloaded here:
 
- :download:`Fiber population - Whole within-variability<./additional_data/fpwhole_cvw.zip>` 
+ :download:`Fiber population - Whole Intra Class correlation<../download/fiber_whole_icc.zip>` 
 
- :download:`Fiber population - Whole between-variability<./additional_data/fpwhole_cvb.zip>`
+ :download:`Fiber population - Whole within-variability<../download/fiber_whole_cvw.zip>` 
 
- :download:`Fiber population - Profile within-variability<./additional_data/fpprofile_cvw.zip>` 
+ :download:`Fiber population - Whole between-variability<../download/fiber_whole_cvb.zip>`
+ 
+ :download:`Fiber population - Profile Intra Class correlation<../download/fiber_profile_icc.zip>`
 
- :download:`Fiber population - Profile between-variability<./additional_data/fpprofile_cvb.zip>`
+ :download:`Fiber population - Profile within-variability<../download/fiber_profile_cvw.zip>` 
+
+ :download:`Fiber population - Profile between-variability<../download/fiber_profile_cvb.zip>`
 
 
 Whole-Bundle consistency
