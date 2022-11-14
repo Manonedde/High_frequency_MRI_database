@@ -26,7 +26,7 @@ A color version using the Jet colormap
  
   :download:`HARDI color version<./hardi_measures_gif_cs.zip>`
  
-  :download:`NODDI color version<./noddi_measures_gif_css.zip>`
+  :download:`NODDI color version<./noddi_measures_gif_cs.zip>`
  
   :download:`MTI color version<./mti_measures_gif_cs.zip>`
  
@@ -108,7 +108,7 @@ Whole bundle
 
  :download:`Whole Bundle - Fiber population Between-Variability<./fiber_whole_cvb.zip>`
 
- :download:`Whole Bundle - Fiber population Within-Variability<./fiber_whole_cvwe.zip>`
+ :download:`Whole Bundle - Fiber population Within-Variability<./fiber_whole_cvw.zip>`
 
 
 Profile bundle
@@ -117,6 +117,6 @@ Profile bundle
 
  :download:`Profile Bundle - Fiber population Between-Variability<./fiber_profile_cvb.zip>`
 
- :download:`Profile Bundle - Fiber population Within-Variability<./fiber_profile_cvwe.zip>`
+ :download:`Profile Bundle - Fiber population Within-Variability<./fiber_profile_cvw.zip>`
 
 
