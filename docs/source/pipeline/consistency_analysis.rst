@@ -29,8 +29,9 @@ with the safe mask.
 
  .. _Tractometry Flow: https://github.com/scilus/tractometry_flow
 
-.. image:: Bundles_masks.png
+.. image:: mask_consistency_analysis.png
    :align: center
+   :width: 700
 
 
 Left and right masks are merged for each average and section bundle mask.
