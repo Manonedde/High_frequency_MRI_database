@@ -4,7 +4,7 @@ MRI Processing
 Tools
 ---------------
 
-Tools used for all MRI images processing are available on `SCIL <https://github.com/scilus>`__.
+Tools used for all MRI images processing are available on `SCIL github <https://github.com/scilus>`__.
 See https://scil-documentation.readthedocs.io/ for installation and documentation.
 
 
