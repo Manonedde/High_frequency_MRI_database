@@ -5,9 +5,9 @@ See section `Fiber population analysis <https://high-frequency-mri-database-supp
 
 Only graphics for some bundles are displayed. The others bundles graphs can be downloaded here:
 
- :download:`Fiber population - Whole measure<./additional_data/fpwhole_measure.zip>` 
+ :download:`Fiber population - Whole measure<../download/fiber_whole_measure.zip>` 
 
- :download:`Fiber population - Profile measure<./additional_data/fpprofile_measure.zip>`
+ :download:`Fiber population - Profile measure<../download/fiber_profile_measure.zip>`
 
 Whole-bunlde measures
 ---------------------------
