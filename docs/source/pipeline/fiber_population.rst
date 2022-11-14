@@ -22,7 +22,7 @@ For this, each voxel of the whole and section masks for each bundle is sorted ac
  
 .. image:: mask_fiberpopulation_analysis.png
    :align: center
-   :width: 500
+   :width: 700
 
 
 See section `Impact of fiber population: measures <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/results/fiber_population_measures.html>`_ for measures distribution according to number of fiber population. 
