@@ -29,7 +29,7 @@ The main steps of the analysis are summarized in the figure below.
 
 .. image:: ../pipeline/pipeline_summary.png
    :align: center
-   :width: 810
+   :width: 700
 
 
 MTI : Magnetization Transfer Imaging, DTI: Diffusion Tensor Imaging, NODDI: Neurite Orientation Density and Dispersion Imaging, HARDI : High Angular Resolution Imaging. For a list of metrics see Table of Metrics generated in Pipeline description. 
@@ -45,6 +45,8 @@ The main coherence results are summarized in the following figure :
 
 Tools
 ------
-The tools described and used are developed by the Sherbrooke Connectivity Imaging Lab (`SCIL`_)
+The tools described and used are developed by the Sherbrooke Connectivity Imaging Lab (`SCIL`_), see the `SCIL Github`_ page for all available nextflows and tools.
 
  .. _SCIL: http://scil.usherbrooke.ca/en/
+ 
+ .. _SCIL Github: https://github.com/scilus
