@@ -1,8 +1,8 @@
 Correlation across measures and bundles
 =======================================
 
-Pearson's correlation coefficient (r) was used to evaluate the covariance of the averaged diffusion measures for all bundles.
-For each MRI measurements, Pearson correlations were computed for each session and then averaged across sessions to generate 
+Pearson's correlation coefficient (r) is used to evaluate the covariance of the averaged diffusion measures for all bundles.
+For each MRI measurements, Pearson correlations are computed for each session and then averaged across sessions to generate 
 correlation map:
 
    * average for all sessions
@@ -58,7 +58,7 @@ Session 5
   
 
 
-Correlations plots between measures 
+Correlation plots between measures 
 ------------------------------------
 
 In addition to the heatmaps, for each bundle, the corresponding scatterplots show the association between each MRI measurement 
