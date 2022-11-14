@@ -4,7 +4,7 @@ MRI Processing
 Tools
 ---------------
 
-Tools used for all MRI images processing were availables on `SCIL <https://github.com/scilus>`__.
+Tools used for all MRI images processing are available on `SCIL <https://github.com/scilus>`__.
 See https://scil-documentation.readthedocs.io/ for installation and documentation.
 
 
@@ -14,7 +14,7 @@ See https://scil-documentation.readthedocs.io/ for installation and documentatio
 
 .. image:: pipeline_summary.png
    :align: center
-   :width: 900
+   :width: 700
 
 
 
@@ -58,7 +58,7 @@ Table describe all metrics maps which will be evaluated.
 Quality Control
 ---------------
 
-After processing, all resultings maps were check using `DMRI QC <https://github.com/scilus/dmriqc_flow>`__.
+After processing, all resulting maps are check using `DMRI QC <https://github.com/scilus/dmriqc_flow>`__.
 
 
 
