@@ -57,7 +57,7 @@ Table describe all metrics maps which will be evaluated.
 
 Quality Control
 ---------------
-The visual quality assessment procedure was applied to the main steps according to the following criteria ( `DMRI QC <https://github.com/scilus/dmriqc_flow>`__.) :
+The visual quality assessment procedure was applied to the main steps according to the following criteria (using `DMRI QC <https://github.com/scilus/dmriqc_flow>`__):
 
 
 +------------------+---------------------+-------------------------------------------------------------------+
