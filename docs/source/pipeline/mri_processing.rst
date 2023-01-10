@@ -35,7 +35,7 @@ Table describe all metrics maps which will be evaluated.
 +-------------------------------+--------------------+----------------------+
 | Tractoflow - HARDI            | Apparent fiber density total (AFD total)  |
 +-------------------------------+--------------------+----------------------+
-|                               | Number of fober direction (NuFO)          |
+|                               | Number of fiber direction (NuFO)          |
 +-------------------------------+--------------------+----------------------+
 | NODDI flow                    | Intra-cellular volume fraction (ICvf)     |
 +-------------------------------+--------------------+----------------------+
