@@ -63,13 +63,13 @@ The visual quality assessment procedure was applied to the main steps according 
 +------------------+---------------------+-------------------------------------------------------------------+
 |   MRI images     |         Step        |                        Exclusion criteria                         |
 +==================+=====================+===================================================================+
-|  T1, MTI, DWI    |  Raw data           | Presence of artifacts that cannot be corrected                    |
-|                  |                     | Incorrect field of view                                           |
-|                  |                     | Too high noise in the image                                       |
+|  T1, MTI, DWI    |  Raw data           | Presence of artifacts that cannot be corrected,                   |
+|                  |                     | Incorrect field of view,                                          |
+|                  |                     | Too high noise in the image,                                      |
 |                  |                     | Broken image                                                      |
 +------------------+---------------------+-------------------------------------------------------------------+
-|  T1, MTI, DWI    | Brain extraction    | Eyes included in the brain mask                                   |
-|                  |                     | Exclusion of a part of the brain                                  |
+|  T1, MTI, DWI    | Brain extraction    | Eyes included in the brain mask,                                  |
+|                  |                     | Exclusion of a part of the brain,                                 |
 |                  |                     | Inclusion of a large part of the background in the brain mask     |
 +------------------+---------------------+-------------------------------------------------------------------+
 |      DWI         | Motion correction   | Alteration of bvecs                                               |
