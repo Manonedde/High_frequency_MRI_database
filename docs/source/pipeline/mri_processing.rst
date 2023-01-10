@@ -78,7 +78,7 @@ The visual quality assessment procedure was applied to the main steps according 
 +------------------+---------------------+-------------------------------------------------------------------+
 |      DWI         | RGB                 | Invalid orientation in major WM structures,                       |
 |                  |                     | Low FA value in expected structure (Corpus callosum for example), |
-|                  |                     | Global color bias (indicating remaining motion)                  |
+|                  |                     | Global color bias (indicating remaining motion)                   |
 +------------------+---------------------+-------------------------------------------------------------------+
 |  T1, MTI, DWI    | Registration        | Poor overlap between warped images and reference image            |
 +------------------+---------------------+-------------------------------------------------------------------+
@@ -97,6 +97,8 @@ The visual quality assessment procedure was applied to the main steps according 
 |                  |                     | Unexpected range of value in expected structure (high FA value in |
 |                  |                     | Corpus callosum for example)                                      |
 +------------------+---------------------+-------------------------------------------------------------------+
+
+
 
 
 
