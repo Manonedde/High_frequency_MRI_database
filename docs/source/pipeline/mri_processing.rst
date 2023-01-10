@@ -94,7 +94,7 @@ The visual quality assessment procedure was applied to the main steps according 
 |                  |                     | Unbalanced sections                                               |
 +------------------+---------------------+-------------------------------------------------------------------+
 |    MTI, DWI      | Metrics map         | Unexpected range of value (FA > 1 for example),                   |
-|                  |                     | Unexpected range of value in expected structure (high FA value in |
+|                  |                     | Unexpected range of value in expected structure (low FA value in  |
 |                  |                     | Corpus callosum for example)                                      |
 +------------------+---------------------+-------------------------------------------------------------------+
 
