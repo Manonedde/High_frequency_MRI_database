@@ -57,8 +57,46 @@ Table describe all metrics maps which will be evaluated.
 
 Quality Control
 ---------------
+The visual quality assessment procedure was applied to the main steps according to the following criteria ( `DMRI QC <https://github.com/scilus/dmriqc_flow>`__.) :
 
-After processing, all resulting maps are check using `DMRI QC <https://github.com/scilus/dmriqc_flow>`__.
+
++----------------+---------------------+-------------------------------------------------------------------+
+|   MRI images   |         Step        |                        Exclusion criteria                         |
++================+=====================+===================================================================+
+|  T1, MTI, DWI  |  Raw data           | Presence of artifacts that cannot be corrected                    |
+|                |                     | Incorrect field of view                                           |
+|                |                     | Too high noise in the image                                       |
+|                |                     | Broken image                                                      |
++----------------+---------------------+-------------------------------------------------------------------+
+|  T1, MTI, DWI  | Brain extraction    | Eyes included in the brain mask                                   |
+|                |                     | Exclusion of a part of the brain                                  |
+|                |                     | Inclusion of a large part of the background in the brain mask     |
++----------------+---------------------+-------------------------------------------------------------------+
+|      DWI       | Motion correction   | Alteration of bvecs                                               |
+|                |                     | Remaining motion in the DWI                                       |
+|                |                     | Presence of slice drop (at least in one direction)                |
++----------------+---------------------+-------------------------------------------------------------------+
+|      DWI       | RGB                 | Invalid orientation in major WM structures                        |
+|                |                     | Low FA value in expected structure (Corpus callosum for example)  |
+|                |                     | Global color bias (indicating remaining motion)                   |
++----------------+---------------------+-------------------------------------------------------------------+
+|  T1, MTI, DWI  | Registration        | Poor overlap between warped images and reference image            |
++----------------+---------------------+-------------------------------------------------------------------+
+|     T1, DWI    | Mask                | Presence of holes in mask                                         |
+|                |                     | Some part of mask missing                                         |
++----------------+---------------------+-------------------------------------------------------------------+
+|      DWI       | Bundle segmentation | Unexpected shape                                                  |
+|                |                     | Ends of bundle not in expected locations and/or without expected  |
+|                |                     | fanning                                                           |
+|                |                     | A low number of streamlines                                       |
++----------------+---------------------+-------------------------------------------------------------------+
+|      DWI       | Tract-profile       | Unexpected number of sections                                     |
+|                |                     | Unbalanced sections                                               |
++----------------+---------------------+-------------------------------------------------------------------+
+|    MTI, DWI    | Metrics map         | Unexpected range of value (FA > 1 for example)                    |
+|                |                     | Unexpected range of value in expected structure (high FA value in |
+|                |                     | Corpus callosum for example)                                      |
++----------------+---------------------+-------------------------------------------------------------------+
 
 
 
