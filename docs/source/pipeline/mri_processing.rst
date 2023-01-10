@@ -64,16 +64,16 @@ The visual quality assessment procedure was applied to the main steps according 
 |   MRI images     |         Step        |                        Exclusion criteria                         |
 +==================+=====================+===================================================================+
 |  T1, MTI, DWI    |  Raw data           | Presence of artifacts that cannot be corrected,                   |
-|                  |                     | Incorrect field of view,                                          |
-|                  |                     | Too high noise in the image,                                      |
-|                  |                     | Broken image                                                      |
+|                  |                     | Incorrect field of view, Incorrect distribution of gradient (DWI) |
+|                  |                     | Too high noise in the image, High inhomogeneity (MTI),            |
+|                  |                     | Broken image, Missing part of the brain (T1, MTI)                 |
 +------------------+---------------------+-------------------------------------------------------------------+
 |  T1, MTI, DWI    | Brain extraction    | Eyes included in the brain mask,                                  |
 |                  |                     | Exclusion of a part of the brain,                                 |
 |                  |                     | Inclusion of a large part of the background in the brain mask     |
 +------------------+---------------------+-------------------------------------------------------------------+
 |      DWI         | Motion correction   | Alteration of bvecs,                                              |
-|                  |                     | Remaining motion in the DWI  ,                                    |
+|                  |                     | Remaining motion in the DWI,                                      |
 |                  |                     | Presence of slice drop (at least in one direction)                |
 +------------------+---------------------+-------------------------------------------------------------------+
 |      DWI         | RGB                 | Invalid orientation in major WM structures,                       |
