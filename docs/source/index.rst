@@ -15,6 +15,7 @@ The tools described and used are developed by the Sherbrooke Connectivity Imagin
    Spagnolo F., Barakovic M., Magon S. and Descoteaux M.
    High-frequency longitudinal white matter diffusion- & myelin-based MRI database: reliability and variability,
    currently submit at Human Brain Mapping.
+   https://www.biorxiv.org/content/10.1101/2022.12.01.518514v1
 
 .. toctree::
    :maxdepth: 1
