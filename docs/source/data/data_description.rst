@@ -64,7 +64,7 @@ MRI acquisition parameters
 +--------------------------------+-------------+-------------+-------------+----------------+----------------+
 |    n Echoes - Echo spacing     |             |             |             |                |    3 - 6 ms    |
 +--------------------------------+-------------+-------------+-------------+----------------+----------------+
-* The directions are specified in the standard way i.e. in coordinates of the patient (LPH).
+*The directions are specified in the standard way i.e. in coordinates of the patient (LPH).
   
 
 
