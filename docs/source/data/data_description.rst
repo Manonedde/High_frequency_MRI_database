@@ -66,6 +66,9 @@ MRI acquisition parameters
 +--------------------------------+-------------+-------------+-------------+----------------+----------------+
 *The directions are specified in the standard way i.e. in coordinates of the patient (LPH).
   
+An example of bvec and bval file can be downloaded here:
+
+ :download:`bval bvec files<../download/bval_bvec_files.zip>`
 
 
 Data conversion: DICOM to BIDS
