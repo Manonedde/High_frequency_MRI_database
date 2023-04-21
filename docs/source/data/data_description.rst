@@ -4,9 +4,14 @@ Data collection
 Study design
 -----------------
 Twenty healthy adults (mean age 36 years, age range 29-46 y.o.(SD = 4.7),
-3 men and 17 women) were scan at the Centre Hospitalier Universitaire
+4 men and 16 women) were scan at the Centre Hospitalier Universitaire
 of Sherbrooke (CHUS) using a clinical 3T MRI scanner (Ingenia, Philips
-Healthcare, Best, Netherlands) with a 32-channel head coil.
+Healthcare, Best, Netherlands) with a 32-channel head coil. 
+Each MRI session was repeated 5 times over 5 months and a 4-week interval (+/- 1 week). 
+For each participant, images were acquired at approximately the same time of day 
+to avoid potential diurnal effects (i.e., a morning participant had all sessions in the morning, 
+with a tolerated 2–3-hour variation). 
+
 
 Study design - 20 healthy subjects
 
@@ -14,7 +19,8 @@ Study design - 20 healthy subjects
    :align: center
    :width: 700
    
-Each MRI session include : 
+All MRI data acquisitions were aligned on the anterior commissure-posterior commissure plan (AC-PC) and 
+each MRI session include : 
 
 * Anatomical 3D T1-weighted (3DT1)
 
