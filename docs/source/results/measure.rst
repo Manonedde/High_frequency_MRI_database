@@ -1,6 +1,10 @@
 MRI quantitative measures
 ==========================
 
+.. note::
+
+   For easier reading of the graphs, RD, MD and AD values are expressed in x10-3 and ihMTdR1sat values are expressed in x10-1. 
+   
 
 Whole-Bundle Measures
 ------------------------
