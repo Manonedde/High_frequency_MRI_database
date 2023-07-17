@@ -17,7 +17,7 @@ The tools described and used are developed by the Sherbrooke Connectivity Imagin
    currently.
    https://onlinelibrary.wiley.com/doi/10.1002/hbm.26310
 
-   :download:`</download/Edde2023_HBM_HighFrequencyLongitudinal.pdf>`.
+   :download:`PDF<./download/Edde2023_HBM_HighFrequencyLongitudinal.pdf>`
 
 .. toctree::
    :maxdepth: 1
