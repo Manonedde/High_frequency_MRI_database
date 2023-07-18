@@ -14,7 +14,7 @@ ranging from 1 for the single fiber population to 2 and more for the multiple fi
    :width: 200
    :align: center
 
-NuFO map with game colormap, range scale [0 (blue) - 3.4 (red)].
+NuFO map, range scale [0 (blue) - 3.4 (red)].
 
 We apply two thresholds of 1 and ≥2 on the NuFO map to compartmentalize the “average” bundle 
 (i.e., whole bundle) into “single” and “multi” fiber populations compartments, respectively. 
