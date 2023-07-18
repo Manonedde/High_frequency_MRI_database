@@ -4,7 +4,7 @@ Impact of Fiber Population : Consistency
 
 See section `Fiber population analysis <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/pipeline/fiber_population.html>`_ for the method.
 
-Only graphics for ICC are shown. The within-variability and between-variability graphs can be downloaded here:
+ICC, intra and inter variability are shown only for a few bundles. The others are available for download here:
 
  :download:`Fiber population - Whole Intra Class correlation<../download/fiber_whole_icc.zip>` 
 
