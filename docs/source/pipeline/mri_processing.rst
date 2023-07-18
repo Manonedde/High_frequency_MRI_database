@@ -12,9 +12,13 @@ See https://scil-documentation.readthedocs.io/ for installation and documentatio
  
  - For ihMT processing we used `ihMTflow <https://github.com/scilus/ihmtflow>`__
 
-.. image:: pipeline_summary.png
+
+.. figure:: pipeline_summary.png
    :align: center
    :width: 700
+
+   Processes and analyses overview. In A (blue), MTI input and output files using ihMT flow. In B (blue), the DWI process using Tractoflow to generate the tractograms and diffusion measures maps, the bundles' virtual segmentation using RecoBundlesX to obtain whole bundle mask, and bundles resampling using the Tractometry flow which provides bundle profile masks. In C (light blue), diffusion common space generation using ANTs. In D (green), consistency analyses of diffusion and myelin measures from the whole and profile bundle masks. In E (red) processes that take the NuFO map generated in B and the whole and profile bundle mask generated in D to separate them into single and multi compartments masks and perform consistency analyses of diffusion and myelin measures from these masks.
+
 
 
 
