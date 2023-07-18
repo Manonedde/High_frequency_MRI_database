@@ -21,14 +21,12 @@ For this, each voxel of the whole and section masks for each bundle is sorted ac
 
  .. _SCIL: http://scil.usherbrooke.ca/en/
  
-.. image:: mask_fiberpopulation_analysis.png
-   :align: center
-   :width: 700
 
 .. figure:: mask_fiberpopulation_analysis.png
    :align: center
+   :width: 700
 
-   This is the caption of the figure.
+   Multi and single fiber mask construction pipelines for analyzing the impact of fiber population on consistency.
 
 
 See section `Impact of fiber population: measures <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/results/fiber_population_measures.html>`_ for measures distribution according to number of fiber population. 
