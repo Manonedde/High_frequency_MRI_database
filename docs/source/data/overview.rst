@@ -39,9 +39,14 @@ Consistency summary
 -------------------
 The main coherence results are summarized in the following figure :
 
-.. image:: summary_consistency.png
+
+.. figure:: summary_consistency.png
    :align: center
    :width: 900
+
+   Classification of bundles and measures into four groups according to ICC values and within-variability (CVw). The x-axis represents CVw values (i.e., reproducibility), and the y-axis represents ICC values (i.e., reliability). High consistency group represents low CVw value < 0.05 (5%) and high ICC value > 0.75 (high reliability); Good consistency - ICC: high ICC value > 0.75 but high CVw value > 0.05 (>5%); Good consistency - CVw: low CVw value < 0.05 but low ICC value < 0.75 and finally, Moderate consistency: high CVw value > 0.05 (>5%) and low ICC value < 0.75.
+
+
 
 Tools
 ------
