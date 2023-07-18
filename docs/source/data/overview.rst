@@ -27,7 +27,7 @@ Pipeline summary
 ----------------
 The main steps of the analysis are summarized in the figure below.
 
-.. figure:: ../pipeline/pipeline_summary.png
+.. image:: ../pipeline/pipeline_summary.png
    :align: center
    :width: 700
 
