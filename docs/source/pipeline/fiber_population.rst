@@ -10,7 +10,7 @@ ranging from 1 for the single fiber population to 2 and more for the multiple fi
 
 * NuFO averaged map
 
-.. figure:: NuFO_gwm_colors.gif 
+.. image:: NuFO_gwm_colors.gif 
    :width: 200
    :align: center
    NuFO map with game colormap, range scale [0 (blue) - 3.4 (red)].
