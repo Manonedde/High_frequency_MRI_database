@@ -8,13 +8,12 @@ ranging from 1 for the single fiber population to 2 and more for the multiple fi
 
     See `Dell'Acqua et al. 2009 <https://archive.ismrm.org/2009/3563.html>`_ and `Dell'Acqua et al. 2013 <https://doi.org/10.1002/hbm.22080>`_.
 
-* NuFO averaged map
+* NuFO averaged map,  range scale [0 (blue) - 3.4 (red)].
 
 .. image:: NuFO_gwm_colors.gif 
    :width: 200
    :align: center
 
-NuFO map, range scale [0 (blue) - 3.4 (red)].
 
 We apply two thresholds of 1 and ≥2 on the NuFO map to compartmentalize the “average” bundle 
 (i.e., whole bundle) into “single” and “multi” fiber populations compartments, respectively. 
@@ -25,6 +24,11 @@ For this, each voxel of the whole and section masks for each bundle is sorted ac
 .. image:: mask_fiberpopulation_analysis.png
    :align: center
    :width: 700
+
+.. figure:: mask_fiberpopulation_analysis.png
+   :align: center
+
+   This is the caption of the figure.
 
 
 See section `Impact of fiber population: measures <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/results/fiber_population_measures.html>`_ for measures distribution according to number of fiber population. 
