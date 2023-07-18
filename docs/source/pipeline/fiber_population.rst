@@ -26,7 +26,7 @@ For this, each voxel of the whole and section masks for each bundle is sorted ac
    :align: center
    :width: 700
 
-   Multi and single fiber mask construction pipelines for analyzing the impact of fiber population on consistency.
+   Multi and single fiber mask construction pipeline for analyzing the impact of fiber population on consistency.
 
 
 See section `Impact of fiber population: measures <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/results/fiber_population_measures.html>`_ for measures distribution according to number of fiber population. 
